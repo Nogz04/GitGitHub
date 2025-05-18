@@ -5,7 +5,7 @@ git init
 
 git status
 
-git add .
+git add .  ou git add + caminho
 
 git status
 
@@ -32,5 +32,14 @@ git config --global user.email "matheus.nalbuquerque@ufn.edu.br"
 git pull origin main --rebase
 
 git push -u origin main
+
+```
+
+### Git add e Git reset
+
+```
+git add + caminho (adiciona na lista para enviar para o git)
+
+git reset + caminho (tira ele da lista)
 
 ```
