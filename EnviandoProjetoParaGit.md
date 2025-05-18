@@ -43,3 +43,17 @@ git add + caminho (adiciona na lista para enviar para o git)
 git reset + caminho (tira ele da lista)
 
 ```
+
+
+### Após ja ter feito o primeiro commit
+
+```
+git status
+
+git add .
+
+git commit -m "Mensagem"
+
+git push -u origin main
+
+```
